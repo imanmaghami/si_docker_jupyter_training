@@ -1,5 +1,5 @@
 # NWC Summer Institute Docker / Jupyter Training
-
+Iman
 This repository holds a Dockerfile for a Jupyter installation and dependencies for use in training at the 2019 National Water Center Summer Institute.
 
 Assuming you've installed [Docker Desktop](https://www.docker.com/products/docker-desktop) and [git](https://git-scm.com/)/[gitbash (windows)](https://gitforwindows.org/), to get started, open a terminal or gitbash and do:
